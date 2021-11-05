@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[english]{babel}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{authblk}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{blindtext}
+\usepackage{cite}
+%\usepackage{xr}
+\setlength{\parindent}{0pt}
+
+\title{Latex Exercise} %title
+\author{Yusi Qin, Xiwei Wang, Jin Zhang \thanks{ABC}}
+\affil{University of Zurich}
+\date{\today}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+This article is for Latex exercise. This article is for Latex exercise. This article is for Latex exercise.
+\end{abstract}
+
+\newpage
+\section{dummy text}
+\blindtext[8]
+
+\newpage
+\section{citation}
+%\externaldocument{playground/myfirstline}
+\cite{JKLVVV}
+
+\cite{NJGRSJK}
+
+\newpage
+\section{Figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{worldmap.png}
+\caption{World Map}
+\end{figure}
+
+\newpage
+\section{Table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+Table&title1&title2&title3\\ 
+\hline
+set1&conten1&conten2&conten3\\ 
+\hline 
+set2&conten1&conten2&conten3\\ 
+\hline 
+set3&conten1&conten2&conten3\\
+\hline
+\end{tabular}
+\caption{Table Template}
+\end{table}
+
+
+\newpage
+\bibliographystyle{unsrt}
+\bibliography{references} 
+
+\end{document}
