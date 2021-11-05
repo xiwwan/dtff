@@ -1,0 +1,3 @@
+[submodule "Exercise/dataManagement"]
+	path = Exercise/dataManagement
+	url = git@github.com:jzfrank/dataManagement.git
