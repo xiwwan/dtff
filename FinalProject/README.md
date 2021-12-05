@@ -1,1 +1,2 @@
-This directory is for FinalProject.
+This directory is for Final assignment.
+
