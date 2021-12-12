@@ -1,0 +1,198 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.27)  10 DEC 2021 13:57
+entering extended mode
+**./assignment_paper.tex
+(assignment_paper.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18> (D:\MiKTeX\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(D:\MiKTeX\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\MiKTeX\MiKTeX\tex/latex/preprint\authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip49
+\@affilsep=\skip50
+\c@Maxaffil=\count190
+\c@authors=\count191
+\c@affil=\count192
+)
+(D:\MiKTeX\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(D:\MiKTeX\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count193
+\c@Blindtext=\count194
+\c@blind@countparstart=\count195
+\blind@countxx=\count196
+\blindtext@numBlindtext=\count197
+\blind@countyy=\count198
+\c@blindlist=\count199
+\c@blindlistlevel=\count266
+\c@blindlist@level=\count267
+\blind@listitem=\count268
+\c@blind@listcount=\count269
+\c@blind@levelcount=\count270
+\blind@mathformula=\count271
+\blind@Mathformula=\count272
+\c@blind@randomcount=\count273
+\c@blind@randommax=\count274
+\c@blind@pangramcount=\count275
+\c@blind@pangrammax=\count276
+)
+(D:\MiKTeX\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count277
+\float@exts=\toks16
+\float@box=\box50
+\@float@everytoks=\toks17
+\@floatcapt=\box51
+)
+(D:\MiKTeX\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(D:\MiKTeX\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MiKTeX\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MiKTeX\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\MiKTeX\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(D:\MiKTeX\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(D:\MiKTeX\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box52
+\extrarowheight=\dimen142
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box53
+))
+(D:\MiKTeX\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box54
+)
+(assignment_paper.aux)
+\openout1 = `assignment_paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (D:\MiKTeX\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count279
+\scratchdimen=\dimen143
+\scratchbox=\box55
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen144
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks21
+) (D:\MiKTeX\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\MiKTeX\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) [1
+
+{C:/Users/33077/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (assignment_pap
+er.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `assignment_paper.toc'.
+
+ [2] [3]
+<colorblind.png, id=16, 787.2612pt x 361.35pt>
+File: colorblind.png Graphic file (type png)
+<use colorblind.png>
+Package pdftex.def Info: colorblind.png  used on input line 41.
+(pdftex.def)             Requested size: 312.9803pt x 143.65524pt.
+<capture.PNG, id=18, 310.761pt x 234.27525pt>
+File: capture.PNG Graphic file (type png)
+<use capture.PNG>
+Package pdftex.def Info: capture.PNG  used on input line 50.
+(pdftex.def)             Requested size: 227.62204pt x 171.60219pt.
+<cases.PNG, id=19, 466.74374pt x 239.09325pt>
+File: cases.PNG Graphic file (type png)
+<use cases.PNG>
+Package pdftex.def Info: cases.PNG  used on input line 60.
+(pdftex.def)             Requested size: 284.52756pt x 145.75545pt.
+
+[4 <./colorblind.png> <./capture.PNG>]
+<stock.PNG, id=25, 550.4565pt x 325.215pt>
+File: stock.PNG Graphic file (type png)
+<use stock.PNG>
+Package pdftex.def Info: stock.PNG  used on input line 69.
+(pdftex.def)             Requested size: 284.52756pt x 168.10541pt.
+ [5 <./cases.PNG> <./stock.PNG>] [6]
+(assignment_paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 1646 strings out of 478907
+ 24392 string characters out of 2865079
+ 326890 words of memory out of 3000000
+ 19540 multiletter control sequences out of 15000+600000
+ 405247 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,17n,66p,215b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+<D:/MiKTeX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><D:/MiKTeX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MiKTeX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MiKTeX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb><D:/MiKTeX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><D:/MiKTeX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on assignment_paper.pdf (6 pages, 409333 bytes).
+PDF statistics:
+ 60 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
